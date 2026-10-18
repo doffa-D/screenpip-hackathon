@@ -1,0 +1,10 @@
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+openai>=1.60,<4
+mcp>=2.3,<3
+pydantic-settings>=2.7,<3
+jsonschema>=4.23,<5
+tzdata>=2025.1
+httpx>=0.28,<1
+pytest>=8,<10
+pypdf[image]>=5,<7

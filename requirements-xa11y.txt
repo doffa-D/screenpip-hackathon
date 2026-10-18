@@ -1,0 +1,2 @@
+# Optional desktop test dependency, separate from the FastAPI backend.
+xa11y==0.15.2
